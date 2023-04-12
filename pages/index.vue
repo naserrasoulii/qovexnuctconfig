@@ -6,7 +6,6 @@
                 <div class="navbar-header">
                     <div class="container-fluid">
                         <div class="float-right">
-
                             <div class="dropdown d-inline-block d-lg-none ml-2">
                                 <button type="button" class="btn header-item noti-icon waves-effect"
                                     id="page-header-search-dropdown" data-toggle="dropdown" aria-haspopup="true"
@@ -34,31 +33,31 @@
                             <div class="dropdown d-none d-sm-inline-block">
                                 <button type="button" class="btn header-item waves-effect" data-toggle="dropdown"
                                     aria-haspopup="true" aria-expanded="false">
-                                    <img class="" src="assets/images/flags/us.jpg" alt="Header Language" height="16">
+                                    <img class="" src="/images/flags/us.jpg" alt="Header Language" height="16">
                                 </button>
                                 <div class="dropdown-menu dropdown-menu-right">
 
                                     <!-- item-->
                                     <a href="javascript:void(0);" class="dropdown-item notify-item">
-                                        <img src="assets/images/flags/spain.jpg" alt="user-image" class="mr-1" height="12">
+                                        <img src="/images/flags/spain.jpg" alt="user-image" class="mr-1" height="12">
                                         <span class="align-middle">اسپانیایی</span>
                                     </a>
 
                                     <!-- item-->
                                     <a href="javascript:void(0);" class="dropdown-item notify-item">
-                                        <img src="assets/images/flags/germany.jpg" alt="user-image" class="mr-1"
-                                            height="12"> <span class="align-middle">آلمانی</span>
+                                        <img src="/images/flags/germany.jpg" alt="user-image" class="mr-1" height="12">
+                                        <span class="align-middle">آلمانی</span>
                                     </a>
 
                                     <!-- item-->
                                     <a href="javascript:void(0);" class="dropdown-item notify-item">
-                                        <img src="assets/images/flags/italy.jpg" alt="user-image" class="mr-1" height="12">
+                                        <img src="/images/flags/italy.jpg" alt="user-image" class="mr-1" height="12">
                                         <span class="align-middle">ایتالیایی</span>
                                     </a>
 
                                     <!-- item-->
                                     <a href="javascript:void(0);" class="dropdown-item notify-item">
-                                        <img src="assets/images/flags/russia.jpg" alt="user-image" class="mr-1" height="12">
+                                        <img src="/images/flags/russia.jpg" alt="user-image" class="mr-1" height="12">
                                         <span class="align-middle">روسی</span>
                                     </a>
                                 </div>
@@ -111,8 +110,8 @@
                                         </a>
                                         <a href="" class="text-reset notification-item">
                                             <div class="media">
-                                                <img src="assets/images/users/avatar-3.jpg"
-                                                    class="mr-3 rounded-circle avatar-xs" alt="user-pic">
+                                                <img src="/images/users/avatar-3.jpg" class="mr-3 rounded-circle avatar-xs"
+                                                    alt="user-pic">
                                                 <div class="media-body">
                                                     <h6 class="mt-0 mb-1 primary-font">تونی استارک</h6>
                                                     <div class="font-size-12 text-muted">
@@ -144,8 +143,8 @@
 
                                         <a href="" class="text-reset notification-item">
                                             <div class="media">
-                                                <img src="assets/images/users/avatar-4.jpg"
-                                                    class="mr-3 rounded-circle avatar-xs" alt="user-pic">
+                                                <img src="/images/users/avatar-4.jpg" class="mr-3 rounded-circle avatar-xs"
+                                                    alt="user-pic">
                                                 <div class="media-body">
                                                     <h6 class="mt-0 mb-1 primary-font">استیو راجرز</h6>
                                                     <div class="font-size-12 text-muted">
@@ -170,7 +169,7 @@
                             <div class="dropdown d-inline-block">
                                 <button type="button" class="btn header-item waves-effect" id="page-header-user-dropdown"
                                     data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                    <img class="rounded-circle header-profile-user" src="assets/images/users/avatar-2.jpg"
+                                    <img class="rounded-circle header-profile-user" src="/images/users/avatar-2.jpg"
                                         alt="Header Avatar">
                                     <span class="d-none d-xl-inline-block ml-1">جان</span>
                                     <i class="mdi mdi-chevron-down d-none d-xl-inline-block"></i>
@@ -205,19 +204,19 @@
                             <div class="navbar-brand-box">
                                 <a href="index.html" class="logo logo-dark">
                                     <span class="logo-sm">
-                                        <img src="assets/images/logo-sm.png" alt="" height="20">
+                                        <img src="/images/logo-sm.png" alt="" height="20">
                                     </span>
                                     <span class="logo-lg">
-                                        <img src="assets/images/logo-dark.png" alt="" height="17">
+                                        <img src="/images/logo-dark.png" alt="" height="17">
                                     </span>
                                 </a>
 
                                 <a href="index.html" class="logo logo-light">
                                     <span class="logo-sm">
-                                        <img src="assets/images/logo-sm.png" alt="" height="20">
+                                        <img src="/images/logo-sm.png" alt="" height="20">
                                     </span>
                                     <span class="logo-lg">
-                                        <img src="assets/images/logo-light.png" alt="" height="19">
+                                        <img src="/images/logo-light.png" alt="" height="19">
                                     </span>
                                 </a>
                             </div>
@@ -334,21 +333,19 @@
                                                         <div class="row no-gutters">
                                                             <div class="col">
                                                                 <a class="dropdown-icon-item" href="#">
-                                                                    <img src="assets/images/brands/github.png" alt="Github">
+                                                                    <img src="/images/brands/github.png" alt="Github">
                                                                     <span>گیت هاب</span>
                                                                 </a>
                                                             </div>
                                                             <div class="col">
                                                                 <a class="dropdown-icon-item" href="#">
-                                                                    <img src="assets/images/brands/bitbucket.png"
-                                                                        alt="bitbucket">
+                                                                    <img src="/images/brands/bitbucket.png" alt="bitbucket">
                                                                     <span>بیت باکت</span>
                                                                 </a>
                                                             </div>
                                                             <div class="col">
                                                                 <a class="dropdown-icon-item" href="#">
-                                                                    <img src="assets/images/brands/dribbble.png"
-                                                                        alt="dribbble">
+                                                                    <img src="/images/brands/dribbble.png" alt="dribbble">
                                                                     <span>دریبل</span>
                                                                 </a>
                                                             </div>
@@ -357,21 +354,20 @@
                                                         <div class="row no-gutters">
                                                             <div class="col">
                                                                 <a class="dropdown-icon-item" href="#">
-                                                                    <img src="assets/images/brands/dropbox.png"
-                                                                        alt="dropbox">
+                                                                    <img src="/images/brands/dropbox.png" alt="dropbox">
                                                                     <span>دراپ باکس</span>
                                                                 </a>
                                                             </div>
                                                             <div class="col">
                                                                 <a class="dropdown-icon-item" href="#">
-                                                                    <img src="assets/images/brands/mail_chimp.png"
+                                                                    <img src="/images/brands/mail_chimp.png"
                                                                         alt="mail_chimp">
                                                                     <span>میل چیمپ</span>
                                                                 </a>
                                                             </div>
                                                             <div class="col">
                                                                 <a class="dropdown-icon-item" href="#">
-                                                                    <img src="assets/images/brands/slack.png" alt="slack">
+                                                                    <img src="/images/brands/slack.png" alt="slack">
                                                                     <span>اسلک</span>
                                                                 </a>
                                                             </div>
@@ -382,7 +378,7 @@
                                                 <div class="col-sm-6">
                                                     <div>
                                                         <div class="card text-white mb-0 overflow-hidden text-white-50"
-                                                            style="background-image: url('assets/images/megamenu-img.png');background-size: cover;">
+                                                            style="background-image: url('/images/megamenu-img.png');background-size: cover;">
                                                             <div class="card-img-overlay"></div>
                                                             <div class="card-body">
                                                                 <div class="row">
@@ -420,7 +416,7 @@
                 <div class="h-100">
                     <div class="user-wid text-center py-4">
                         <div class="user-img">
-                            <img src="assets/images/users/avatar-2.jpg" alt="" class="avatar-md mx-auto rounded-circle">
+                            <img src="/images/users/avatar-2.jpg" alt="" class="avatar-md mx-auto rounded-circle">
                         </div>
                         <div class="mt-3">
                             <a href="#" class="text-dark font-weight-medium font-size-16 line-height-h">جان اسنو</a>
@@ -808,8 +804,7 @@
                                     <div class="row justify-content-end">
                                         <div class="col-8">
                                             <div class="mt-3">
-                                                <img src="assets/images/widget-img.png" alt=""
-                                                    class="img-fluid mx-auto d-block">
+                                                <img src="/images/widget-img.png" alt="" class="img-fluid mx-auto d-block">
                                             </div>
                                         </div>
                                     </div>
@@ -930,7 +925,7 @@
                                                         استفاده از</p>
                                                     <div class="media mt-4 pt-1">
                                                         <div class="avatar-sm mr-3">
-                                                            <img src="assets/images/users/avatar-4.jpg" alt=""
+                                                            <img src="/images/users/avatar-4.jpg" alt=""
                                                                 class="img-fluid rounded-circle">
                                                         </div>
                                                         <div class="media-body">
@@ -1027,7 +1022,7 @@
                                             <a href="#">
                                                 <div class="media">
                                                     <div class="mr-3 align-self-center">
-                                                        <img src="assets/images/users/avatar-3.jpg" alt=""
+                                                        <img src="/images/users/avatar-3.jpg" alt=""
                                                             class="avatar-sm rounded-circle">
                                                     </div>
                                                     <div class="media-body overflow-hidden">
@@ -1044,7 +1039,7 @@
                                             <a href="#">
                                                 <div class="media">
                                                     <div class="mr-3 align-self-center">
-                                                        <img src="assets/images/users/avatar-4.jpg" alt=""
+                                                        <img src="/images/users/avatar-4.jpg" alt=""
                                                             class="avatar-sm rounded-circle">
                                                     </div>
                                                     <div class="media-body overflow-hidden">
@@ -1061,7 +1056,7 @@
                                             <a href="#">
                                                 <div class="media">
                                                     <div class="mr-3 align-self-center">
-                                                        <img src="assets/images/users/avatar-5.jpg" alt=""
+                                                        <img src="/images/users/avatar-5.jpg" alt=""
                                                             class="avatar-sm rounded-circle">
                                                     </div>
                                                     <div class="media-body overflow-hidden">
@@ -1078,7 +1073,7 @@
                                             <a href="#">
                                                 <div class="media">
                                                     <div class="mr-3 align-self-center">
-                                                        <img src="assets/images/users/avatar-6.jpg" alt=""
+                                                        <img src="/images/users/avatar-6.jpg" alt=""
                                                             class="avatar-sm rounded-circle">
                                                     </div>
                                                     <div class="media-body overflow-hidden">
@@ -1189,7 +1184,7 @@
                     <div class="container-fluid">
                         <div class="row">
                             <div class="col-sm-6">
-                                © کووکس.
+                                covex
                             </div>
                             <div class="col-sm-6">
                                 <div class="text-sm-right d-none d-sm-block">
@@ -1206,54 +1201,21 @@
 
     </div>
     <!-- end container-fluid -->
-
-    <!-- Right Sidebar -->
-    <div class="right-bar">
-        <div data-simplebar class="h-100">
-            <div class="rightbar-title px-3 py-4">
-                <a href="javascript:void(0);" class="right-bar-toggle float-right">
-                    <i class="mdi mdi-close noti-icon"></i>
-                </a>
-                <h5 class="m-0">تنظیمات</h5>
-            </div>
-
-            <!-- Settings -->
-            <hr class="mt-0">
-            <h6 class="text-center mb-0">انتخاب طرح</h6>
-
-            <div class="p-4">
-                <div class="mb-2">
-                    <img src="assets/images/layouts/layout-1.jpg" class="img-fluid img-thumbnail" alt="">
-                </div>
-                <div class="custom-control custom-switch mb-3">
-                    <input type="checkbox" class="custom-control-input theme-choice" id="light-mode-switch" checked>
-                    <label class="custom-control-label" for="light-mode-switch">طرح روشن</label>
-                </div>
-
-                <div class="mb-2">
-                    <img src="assets/images/layouts/layout-2.jpg" class="img-fluid img-thumbnail" alt="">
-                </div>
-                <div class="custom-control custom-switch mb-3">
-                    <input type="checkbox" class="custom-control-input theme-choice" id="dark-mode-switch"
-                        data-bsstyle="assets/css/bootstrap-dark.min.css" data-appstyle="assets/css/app-dark.css">
-                    <label class="custom-control-label" for="dark-mode-switch">طرح تیره</label>
-                </div>
-            </div>
-
-        </div>
-        <!-- end slimscroll-menu-->
-    </div>
-    <!-- /Right-bar -->
-
-    <!-- Right bar overlay-->
-    <div class="rightbar-overlay"></div>
 </template>
 
 <script setup>
-
-onMounted(() => {
-    const bodyHtml = document.querySelector('body')
-    bodyHtml.setAttribute('data-layout', 'detached');
-    bodyHtml.setAttribute('detached', 'colored');
+useHead({
+    script: [
+        { src: '/libs/jquery/jquery.min.js', body: true },
+        { src: '/libs/bootstrap/js/bootstrap.bundle.min.js', body: true },
+        { src: '/libs/metismenu/metisMenu.min.js', body: true },
+        { src: '/libs/simplebar/simplebar.min.js', body: true },
+        { src: '/libs/node-waves/waves.min.js', body: true },
+        { src: '/libs/apexcharts/apexcharts.min.js', body: true },
+        { src: '/libs/admin-resources/jquery.vectormap/jquery-jvectormap-1.2.2.min.js', body: true },
+        { src: '/libs/admin-resources/jquery.vectormap/maps/jquery-jvectormap-us-merc-en.js', body: true },
+        { src: '/js/pages/dashboard.init.js', body: true },
+        { src: '/js/app.js', body: true },
+    ],
 })
 </script>

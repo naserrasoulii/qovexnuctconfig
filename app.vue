@@ -1,11 +1,12 @@
 <template>
- <NuxtPage></NuxtPage>
+  <div>
+    <NuxtPage />
+  </div>
 </template>
 <script setup>
-// useHead({
-//   link:[{href:'~/css/app.css',rel:'stylesheet'}],
-//   script:[{
-//     src:'~/js/app.js'
-//   }]
-// })
+onMounted(() => {
+  const bodyHtml = document.querySelector('body')
+  bodyHtml.setAttribute('data-layout', 'detached');
+  bodyHtml.setAttribute('detached', 'colored');
+})
 </script>
